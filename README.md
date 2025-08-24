@@ -16,6 +16,7 @@ Here you will find all the information about me and also some of my projects.
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/ColdPierce) 
 [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=telegram&logoColor=white)](https://t.me/ColdPierce)
 
+---
 
 # 💻 LANGUAGES:
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -23,6 +24,7 @@ Here you will find all the information about me and also some of my projects.
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 
+---
 
 # ⚡ PLATFORMS & LIBRARIES
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
