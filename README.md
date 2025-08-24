@@ -7,7 +7,7 @@ Here you will find all the information about me and also some of my projects.
 ## 🌟 About Me
 > - **Interests:** Discord bots, Databases, Websites  
 > - **Currently Learning:** Python, MySQL (Databases), HTML, CSS
-> - **Contact:** [LinkedIn](t.me/ColdPierce) | [Discord](https://discord.com/users/1273543576155979834)  
+> - **Contact:** [Telegram](t.me/ColdPierce) | [Discord](https://discord.com/users/1273543576155979834)  
 
 ---
 
