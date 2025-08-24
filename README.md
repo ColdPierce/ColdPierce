@@ -9,8 +9,6 @@ Here you will find all the information about me and also some of my projects.
 > - **Currently Learning:** Python, MySQL (Databases), HTML, CSS
 > - **Contact:** [Telegram](t.me/ColdPierce) | [Discord](https://discord.com/users/1273543576155979834)  
 
----
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1273543576155979834) 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/ColdPierce) 
