@@ -1,6 +1,6 @@
 <!-- Баннер или логотип -->
 <p align="center">
-  <img src="YOUR_BANNER.png" alt="Banner" width="100%">
+  <img src="https://i.postimg.cc/fbQPGJC2/Frame-366.png" alt="Banner" width="100%">
 </p>
 
 # Привет! Я **[Твоё Имя]** 👋
